@@ -1,4 +1,4 @@
-# Angular-Php-Prac
+# Angular-PHP-MYSQL-Example
 
 Angularjs, PHP, MySql excercise.
 
